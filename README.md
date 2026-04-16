@@ -4,7 +4,7 @@ A Trello-like Kanban board built with **Next.js 14 (App Router)**, **TypeScript*
 
 ## Live Demo
 
-> [Add your deployed Vercel link here after deployment](https://kanban-board-app-umber.vercel.app/)
+> [ deployed Vercel link here after deployment](https://kanban-board-app-umber.vercel.app/)
 
 ---
 # Kanban Board
