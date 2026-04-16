@@ -20,7 +20,7 @@ A simple task management app with drag and drop.
 
 ## 📸 UI Preview
 
-![Kanban Board UI](/kanban-ui.png)
+public/kanban-ui.png
 
 ## Features
 
