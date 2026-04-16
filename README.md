@@ -18,9 +18,9 @@ A simple task management app with drag and drop.
 - Drag & Drop
 - Search
 
-## 📸 UI Preview
+## UI Preview
 
-public/kanban-ui.png
+![Kanban Board UI](./public/kanban-ui.png)
 
 ## Features
 
