@@ -7,6 +7,20 @@ A Trello-like Kanban board built with **Next.js 14 (App Router)**, **TypeScript*
 > Add your deployed Vercel link here after deployment
 
 ---
+# Kanban Board
+
+A simple task management app with drag and drop.
+
+## Features
+- Add task
+- Edit task
+- Delete task
+- Drag & Drop
+- Search
+
+## 📸 UI Preview
+
+![Kanban Board UI](/kanban-ui.png)
 
 ## Features
 
