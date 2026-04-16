@@ -114,15 +114,9 @@ This project is ready to deploy on **Vercel**:
 | Move a card | Drag & drop across columns, OR hover → use ◀ ▶ arrows |
 | Search | Type in the search bar to filter by title or description |
 
----
-
-## Screenshots
-
-> Add screenshots of your deployed app here
 
 ---
 
 ## Author
 
-Built for the **Next.js Intern Assignment — Mini Kanban Board**  
-Submission deadline: 16-04-2026, 11:30 AM
+Banoth Arun
